@@ -1,6 +1,6 @@
-# unisol-community
+# vue multiple pages application template
 
-> unisol platform sns community front end project code
+> 使用webpack 配置vue 的多页面的项目模版
 
 ## Build Setup
 
