@@ -1,7 +1,7 @@
 {
-  "name": "unisol-community",
+  "name": "vue-multiple-pages-application-template",
   "version": "1.0.0",
-  "description": "unisol platform sns community front end project code",
+  "description": "使用webpack 配置vue 的多页面的项目模版",
   "author": "clamber <hellodearclam@outlook.com>",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
